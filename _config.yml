@@ -10,7 +10,7 @@
 # jekyll-theme-time-machine
 
 # title: "GitHub Page of Gábor Szabó"
-# show_downloads: false
+show_downloads: false
 plugins:
   - jekyll-remote-theme
 # remote_theme: mmistakes/minimal-mistakes     # Unknown tag 'include_cached'
