@@ -1,5 +1,5 @@
 # theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # theme: jekyll-theme-leap-day
 # jekyll-theme-hacker
 # jekyll-theme-midnight
@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
 # jekyll-theme-tactile
 # jekyll-theme-time-machine
 
-# title: "GitHub Page of Gábor Szabó"
+title: "GitHub Page of Gábor Szabó"
 # show_downloads: false
 # plugins:
 #   - jekyll-remote-theme
