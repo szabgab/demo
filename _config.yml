@@ -9,14 +9,11 @@
 # jekyll-theme-tactile
 # jekyll-theme-time-machine
 
-title: "GitHub Page of Gábor Szabó"
+# title: "GitHub Page of Gábor Szabó"
 # show_downloads: false
-# plugins:
-#   - jekyll-remote-theme
-
-# theme: beautiful-jekyll  # Theme not found (this is fine, it is a remote theme)
-
-# remote_theme: mmistakes/minimal-mistakes     # Unknown tag 'include_cached'
+plugins:
+  - jekyll-remote-theme
+remote_theme: mmistakes/minimal-mistakes     # Unknown tag 'include_cached'
 # remote_theme: "chirpy-dev/chirpy"            # not found
 # remote_theme: "just-the-docs/just-the-docs"
 # remote_theme: "daattali/beautiful-jekyll"
